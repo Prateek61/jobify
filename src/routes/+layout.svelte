@@ -10,7 +10,7 @@
 </script>
 
 <!-- App Shell -->
-<AppShell>
+<AppShell class="p-1">
 	<LightSwitch />
 	<slot />
 </AppShell>
